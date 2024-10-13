@@ -1,0 +1,6 @@
+Score: 331, Time: 81s
+Score: 122, Time: 27s
+Score: 95, Time: 19s
+Score: 73, Time: 11s
+Score: 67, Time: 11s
+Score: 64, Time: 11s
